@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-from index_gathering import create_label_dict
+from utils.index_gathering import create_label_dict
 
 while True:
 
